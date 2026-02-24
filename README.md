@@ -1,7 +1,7 @@
 # Helloooooooooooooooo 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=BackEnd+Development+Student;Laravel+and+Next.js+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
 ---
