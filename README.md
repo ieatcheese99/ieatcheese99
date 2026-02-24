@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="github-contribution-grid-snake.svg" alt="github-snake" />
+  <img src="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/output/github-contribution-grid-snake.svg" alt="github-snake" />
 </p>
 
 ---
