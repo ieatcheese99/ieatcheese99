@@ -1,7 +1,15 @@
-# Helloooooooooooooooo 👋
+# Hello There! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Role-Backend%20Developer-FF5733?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Next.js%20%26%20C%23-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Enthusiast-blue?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,html,css,cs,cpp,python,blender,mysql,git,vscode,vercel&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -14,43 +22,22 @@
 ---
 
 ### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
----
-
-### 🛠️ Tech Stack
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php,laravel" width="48" alt="PHP/Laravel" />
-      <br>PHP/Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs,html,css" width="48" alt="Frontend" />
-      <br>Web Tech
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs,cpp,python" width="48" alt="Languages" />
-      <br>Languages
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=blender" width="48" alt="3D" />
-      <br>Blender
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
 ### 🌐 Connect with me
-<p align="left">
-<a href="https://github.com/ieatcheese99" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="ieatcheese99" /></a>
-<a href="https://linkedin.com/in/username" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<p align="center">
+  <a href="https://github.com/ieatcheese99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
-<sub>Generated with ❤️ using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+<sub>Last updated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
