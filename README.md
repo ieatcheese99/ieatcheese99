@@ -14,20 +14,16 @@
 
 ---
 
-### 📊 My GitHub Ecosystem
 <p align="center">
   <img src="github-metrics.svg" alt="Metrics" width="100%">
 </p>
 
----
-
-### 🐍 Contribution Snake
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg" />
-  </picture>
+  <img src="metrics.plugin.skyline.svg" alt="GitHub Skyline" width="100%">
+</p>
+
+<p align="center">
+  <img src="github-contribution-grid-snake.svg" alt="github-snake" />
 </p>
 
 ---
@@ -36,8 +32,5 @@
 <p align="center">
   <a href="https://github.com/ieatcheese99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="gmailto:harjatizabdan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-<sub>Last updated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
