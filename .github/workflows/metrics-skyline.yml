@@ -21,8 +21,8 @@ jobs:
           outputs: metrics.plugin.skyline.svg
       - name: Commit files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "harjatizabdan@gmail.com"
+          git config --local user.name "ieatcheese99"
           git add metrics.plugin.skyline.svg
           git commit -m "chore: update skyline" || true
       - name: Push changes
