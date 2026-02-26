@@ -15,11 +15,11 @@
 ---
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/ieatcheese99/ieatcheese99/blob/output/github-metrics.svg?raw=true" alt="Metrics" width="100%">
 </p>
 
 <p align="center">
-  <img src="metrics.plugin.skyline.svg" alt="GitHub Skyline" width="100%">
+  <img src="https://github.com/ieatcheese99/ieatcheese99/blob/output/metrics.plugin.skyline.svg?raw=true" alt="GitHub Skyline" width="100%">
 </p>
 
 <p align="center">
