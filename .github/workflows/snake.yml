@@ -18,8 +18,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: Commit files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "harjatizabdan@gmail.com"
+          git config --local user.name "ieatcheese99"
           git add dist/
           git commit -m "chore: update snake" || true
       - name: Push changes
