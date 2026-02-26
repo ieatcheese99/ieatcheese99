@@ -1,27 +1,25 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    # Runs at 12 AM UTC every day
+    - cron: '0 0 * * *'
   workflow_dispatch:
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: ieatcheese99
           template: classic
-          base: header, activity, community, repositories, metadata
-          
-          # Plugin-plugin yang kamu minta
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_repositories: yes
-          plugin_repositories_featured: ieatcheese99/ieatcheese99
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          
-          # GitHub Skyline
-          plugin_skyline: yes
-          plugin_skyline_year: 2024
-          filename: github-metrics.svg # File utama
+          base: header, activity, community, repositories
+          base_hireable: yes
+          output_action: gist
+          # SVG akan di-generate ke branch root
+          committer_message: "chore: update metrics"
+          committer_name: "GitHub"
+          committer_email: "noreply@github.com"
