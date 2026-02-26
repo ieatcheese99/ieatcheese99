@@ -14,17 +14,12 @@
 
 ---
 
-<p align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
-</p>
-
-<p align="center">
-  <img src="metrics.plugin.skyline.svg" alt="GitHub Skyline" width="100%">
-</p>
-
-<p align="center">
-  <img src="github-contribution-grid-snake.svg" alt="github-snake" />
-</p>
+<div align="right">
+  <img src="github-metrics.svg" alt="Metrics" width="45%">
+  <img src="metrics.plugin.skyline.svg" alt="GitHub Skyline" width="45%">
+  <br>
+  <img src="github-contribution-grid-snake.svg" alt="github-snake" width="90%" />
+</div>
 
 ---
 
