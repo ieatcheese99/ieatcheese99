@@ -15,15 +15,15 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/output/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/output/metrics.plugin.skyline.svg" alt="GitHub Skyline" width="100%">
+  <img src="metrics.plugin.skyline.svg" alt="GitHub Skyline" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  <img src="github-contribution-grid-snake.svg" alt="github-snake" />
 </p>
 
 ---
