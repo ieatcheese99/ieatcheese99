@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/ieatcheese99">ieatcheese99</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/ieatcheese99">ieatcheese99</a></h1>
 <h3 align="center">Backend Developer | Fullstack Enthusiast</h3>
 
 <p align="center">
@@ -9,15 +9,15 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently improving my skills in **Next.js & C#**
-- 🌱 I’m currently learning deeper into **Fullstack Development**
-- 💬 Ask me about **Laravel, PHP, and Web Development**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) or [Email](mailto:your-email@example.com)
+### About Me
+- I’m currently improving my skills in **Next.js & C#**
+- I’m currently learning deeper into **Fullstack Development**
+- Ask me about **Laravel, PHP, and Web Development**
+- How to reach me: [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) or [Email](mailto:your-email@example.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,html,css,cs,cpp,python,blender,mysql,git,vscode,vercel&theme=dark" />
@@ -26,17 +26,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ieatcheese99&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieatcheese99&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="35%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Detailed Metrics" width="60%">
+  <img src="github-metrics.svg" alt="GitHub Detailed Metrics" width="80%">
 </div>
 
 ---
