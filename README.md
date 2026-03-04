@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ieatcheese99">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Backend+Developer;Laravel+%26+PHP+Enthusiast;Learning+Next.js+%26+C%23" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&background=0D1117&center=false&vCenter=true&width=550&lines=%24+echo+%22Fullstack+Developer%22;%24+echo+%22Laravel+%26+PHP+Enthusiast%22;%24+echo+%22Learning+Next.js+%26+C%23%22" alt="Terminal Typing SVG" />
   </a>
 </p>
 
