@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/ieatcheese99">ieatcheese99</a></h1>
-<h3 align="center">Backend Developer | Fullstack Enthusiast</h3>
+<h1 align="center">Helloooooooooooooooo <a href="https://github.com/ieatcheese99">ieatcheese99</a></h1>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/ieatcheese99">
@@ -10,10 +10,9 @@
 ---
 
 ### About Me
-- I’m currently improving my skills in **Next.js & C#**
+- I’m currently improving my skills in IT*
 - I’m currently learning deeper into **Fullstack Development**
-- Ask me about **Laravel, PHP, and Web Development**
-- How to reach me: [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) or [Email](mailto:your-email@example.com)
+
 
 ---
 
