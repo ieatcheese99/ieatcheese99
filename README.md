@@ -12,6 +12,7 @@
 ### About Me
 - I’m currently improving my skills in IT*
 - I’m currently learning deeper into **Fullstack Development**
+- Learning new things
 
 
 ---
