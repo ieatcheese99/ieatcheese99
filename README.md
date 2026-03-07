@@ -1,41 +1,69 @@
-<h1 align="center">Helloooooooooooooooo <a href="https://github.com/ieatcheese99">ieatcheese99</a></h1>
-<h3 align="center">Fullstack Developer</h3>
-
-<p align="center">
-  <a href="https://github.com/ieatcheese99">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&background=0D1117&center=false&vCenter=true&width=550&lines=%24+echo+%22Fullstack+Developer%22;%24+echo+%22Laravel+%26+PHP+Enthusiast%22;%24+echo+%22Learning+Next.js+%26+C%23%22" alt="Terminal Typing SVG" />
-  </a>
-</p>
-
----
-
-### About Me
-- I’m currently improving my skills in IT*
-- I’m currently learning deeper into **Fullstack Development**
-- Learning new things
-
-
----
-
-### Tech Stack & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,html,css,cs,cpp,python,blender,mysql,git,vscode,vercel&theme=dark" />
-  </a>
-</p>
-
----
-
-### GitHub Stats
-
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Detailed Metrics" width="80%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&background=0D1117&vCenter=true&width=500&lines=$+Welcome+to+my+blueprint...;$+Compiling+the+backend...;$+Executing+code...;>+ieatcheese99.exe+running%21" alt="welcome to my github profile">
+  <br>
+  <br>
 </div>
 
----
+**i write code**&nbsp;&nbsp;<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25">&nbsp;&nbsp;**and build tech**&nbsp;&nbsp;<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25">
 
-<p align="center">
-  <a href="https://github.com/ieatcheese99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" align="right" width="120" style="border-radius:10px;">
+
+<br>
+
+> "Simplicity is the soul of efficiency."
+> 
+> *– Austin Freeman*
+
+<br>
+
+### ━ `Profile`
+```txt
+Name         : ieatcheese99
+Role         : Backend Developer / Fullstack Enthusiast
+Focus        : Next.js & C#, Laravel, PHP
+Contact      : linkedin.com/in/ieatcheese99
+```
+
+<img src="https://i.pinimg.com/originals/cc/95/8e/cc958e0a240da1fc4e2b027cd41cf324.gif" align="right" width="220" alt="Wireframe Aesthetic">
+
+### ━ `Tech Stack`
+```txt
+> Languages  : PHP, C#, C++, Python, HTML/CSS
+> Frameworks : Laravel, Next.js
+> Tools      : Git, VSCode, Vercel, MySQL, Blender
+```
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/4c56T0sJ0iCgGZ4d02/giphy.gif" width="120" />
+</div>
+
+<br>
+
+### ━ `GitHub Blueprint`
+
+<div align="center">
+  <a href="https://github.com/ieatcheese99">
+    <img src="https://github-readme-stats.vercel.app/api?username=ieatcheese99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=00FF00&title_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="ieatcheese99's GitHub stats" height="160" />
+  </a>
+  <a href="https://github.com/ieatcheese99">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieatcheese99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=00FF00&title_color=00FF00&border_color=00FF00" alt="Top Languages" height="160" />
+  </a>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <a href="https://github.com/ieatcheese99"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" /></a>
+  <a href="https://linkedin.com/in/ieatcheese99"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" /></a>
+  <a href="mailto:harjatizabdan@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Flames Pixel Art" width="100%" style="opacity: 0.7;">
+</div>
