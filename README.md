@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7aa2f7&background=1a1b2600&vCenter=true&width=500&lines=Hi,+I'm+ieatcheese99;Senior+Backend+Developer;UI%2FUX+%26+Fullstack+Enthusiast;Transforming+Ideas+into+Code" alt="Typing Intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7aa2f7&background=1a1b2600&vCenter=true&width=500&lines=Hello,+I'm+ieatcheese;Junior+Fullstack+Developer;UI%2FUX+%26+Fullstack+Enthusiast" alt="Typing Intro">
 </div>
 
 <br>
