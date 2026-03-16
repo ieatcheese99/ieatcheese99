@@ -1,69 +1,61 @@
-<!-- Header Banner -->
+<!-- HEADER BANNER & TYPING EFFECT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Welcome%20to%20My%20World&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=c0caf5" alt="Header Banner" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7aa2f7&background=1a1b2600&vCenter=true&width=500&lines=Hello,+I'm+ieatcheese;Junior+Fullstack+Developer;UI%2FUX+%26+Fullstack+Enthusiast" alt="Typing Intro">
-</div>
-
-<br>
-
-<div align="center">
-  i write code&nbsp;&nbsp;<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25">&nbsp;&nbsp;and build tech&nbsp;&nbsp;<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25">
-</div>
-
-<br>
-
-<div align="center">
-  <p align="center">
-    <a href="https://linkedin.com/in/ieatcheese99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:harjatizabdan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-</div>
-
-<br>
-
-##  Tech Stack & Tools
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,cs,cpp,python,html,css,js,ts&theme=dark" alt="Languages" />
-  </a>
+  <img src="https://i.pinimg.com/originals/e8/34/00/e83400a40236a9b40f28e185c13f6ecb.gif" alt="Neural Network Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0,255,153,0.5);">
   <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,tailwind,bootstrap,mysql,postman,blender&theme=dark" alt="Frameworks & Tools" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux&theme=dark" alt="DevOps & Editors" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF99&vCenter=true&center=true&width=600&lines=System.Initialize();Neural+Network+Activated...;Building+the+Future.exe;Front-End+Dev+%7C+UI%2FUX+Designer" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ieatcheese99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieatcheese99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
-</div>
+<!-- SYSTEM LOG (ABOUT ME) & TECH STACK IN 2 COLUMNS -->
+<table align="center" border="0" style="border-collapse: collapse; width: 100%; max-width: 900px; background: transparent;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left"><code>&gt;_ DATA_LOG.txt</code></h3>
+      <p align="left">
+        <strong>Status:</strong> Online & Coding<br>
+        <strong>Mission:</strong> Merajut UI pixel-perfect dan arsitektur UX yang fungsional sekaligus mencuri perhatian.<br>
+        <strong>Base:</strong> Earth (Sector 2814)<br>
+        <strong>Ping:</strong> <a href="mailto:email@kamu.com">Kirim Transmisi</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="right"><code>// NEURAL_NODES</code></h3>
+      <div align="right">
+        <!-- Merender icon stack teknologi dalam mode gelap -->
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,css,figma,threejs,py&theme=dark" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
+<br>
+
+<!-- 3D CONTRIBUTION GLOBE / ISOMETRIC -->
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ieatcheese99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <h3><code>[MODULE: 3D_CONTRIBUTIONS]</code></h3>
+  <p><i>Visualisasi spatial dari aktivitas repository.</i></p>
+  
+  <!-- Pastikan Anda sudah menjalankan GitHub action yoshi389111/github-profile-3d-contrib -->
+  <!-- Action tersebut akan membuat folder profile-3d-contrib dan file SVG. -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/main/profile-3d-contrib/profile-gitblock.svg">
+    <img alt="3D Isometric GitHub Contributions" src="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  </picture>
 </div>
 
 <br>
 
-
-
+<!-- GENERATIVE ART / DYNAMIC STATS WIDGET -->
 <div align="center">
-  <!-- This image is generated by the GitHub Action -->
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <h3><code>[MODULE: GENERATIVE_METRICS]</code></h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=ieatcheese99&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00FF99&title_color=00FF99&icon_color=00FFFF&text_color=A9B1D6&bg_color=0D1117" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieatcheese99&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF99&icon_color=00FFFF&text_color=A9B1D6&bg_color=0D1117" alt="Top Languages" width="48%">
 </div>
 
-<br>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" alt="Footer Banner" width="100%" />
-</div>
