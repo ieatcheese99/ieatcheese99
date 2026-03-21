@@ -1,85 +1,86 @@
+<!-- Header Banner: Neural Network GIF -->
 <div align="center">
-  <h1>Welcome to my GitHub Profile</h1>
+  <img src="https://i.pinimg.com/originals/e8/34/00/e83400a40236a9b40f28e185c13f6ecb.gif" alt="Neural Network Banner" width="100%" style="border-radius: 15px;" />
 </div>
 
-**i write code** &nbsp;&nbsp; **and build tech**
+<div align="center">
+  <!-- Font Typing Color diubah ke warna hijau neon khas neural network (00FF99) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&background=1a1b2600&vCenter=true&width=500&lines=Hello,+I'm+ieatcheese;Junior+Fullstack+Developer;UI%2FUX+%26+Fullstack+Enthusiast" alt="Typing Intro">
+</div>
 
 <br>
 
-> "Simplicity is the soul of efficiency."
-> 
-> *– Austin Freeman*
+<div align="center">
+  <!-- Mengganti GIF klasik dengan ikon 3D rotasi (Laptop & Globe 3D) -->
+  i write code&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30">&nbsp;&nbsp;and build tech&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="30">
+</div>
 
 <br>
 
-### ━ `Profile`
-```txt
-Name         : ieatcheese99
-Role         : Backend Developer / Fullstack Enthusiast
-Focus        : Next.js & C#, Laravel, PHP
-Contact      : linkedin.com/in/ieatcheese99
-```
+<div align="center">
+  <p align="center">
+    <a href="https://linkedin.com/in/ieatcheese99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:harjatizabdan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-### ━ `Tech Stack`
-<div>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<br>
+
+##  Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,cs,cpp,python,html,css,js,ts&theme=dark" alt="Languages" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,tailwind,bootstrap,mysql,postman,blender&theme=dark" alt="Frameworks & Tools" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux&theme=dark" alt="DevOps & Editors" />
+  </a>
+</div>
+
+<br>
+
+##  System Metrics
+
+<div align="center">
+  <!-- Tema Statistik GitHub disesuaikan agar cocok dengan tampilan "Neural Network" (Neon Green, Cyan, & Dark Backgound) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ieatcheese99&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF99&icon_color=00FFFF&text_color=a9b1d6&bg_color=0D1117" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieatcheese99&layout=compact&hide_border=true&title_color=00FF99&icon_color=00FFFF&text_color=a9b1d6&bg_color=0D1117" alt="Top Languages" height="195" />
+</div>
+
+<div align="center">
   <br>
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <br>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-</div>
-
-<br>
-<br>
-
-### ━ `GitHub Blueprint`
-
-<!-- Bagian 3D Plot & Metrics versi awalmu -->
-<div align="center">
-  <img src="3d-plot.png" alt="3D Surface Plot" width="35%">
-  <img src="github-metrics.svg" alt="Metrics" width="35%">
-</div>
-
-<br>
-<br>
-
-<!-- Bagian GitHub Stats & Top Languages -->
-<div align="center">
-  <a href="https://github.com/ieatcheese99">
-    <img src="https://github-readme-stats.vercel.app/api?username=ieatcheese99&show_icons=true&theme=default&hide_border=true" alt="ieatcheese99's GitHub stats" height="160" />
-  </a>
-  <a href="https://github.com/ieatcheese99">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieatcheese99&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ieatcheese99&hide_border=true&background=0D1117&ring=00FF99&fire=00FFFF&currStreakNum=a9b1d6&sideNums=a9b1d6&currStreakLabel=00FF99&sideLabels=00FFFF&dates=a9b1d6" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<!-- Bagian Contribution Streak (Sesuai Gambar) -->
+##  3D Contributions & Generative Node Art
+
 <div align="center">
-  <a href="https://github.com/ieatcheese99">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ieatcheese99&theme=default&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <!-- This image is generated by the GitHub Action -->
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <br>
-<br>
 
 <div align="center">
-  <a href="https://github.com/ieatcheese99"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ieatcheese99"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harjatizabdan@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- Generative Code Art: Snake Animation (Mengonsumsi graf commit menjadi generatif art) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/output/github-contribution-grid-snake.svg">
+    <img alt="Generative Snake Code Art" src="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+  <!-- Footer dirubah warnanya agar senada dengan UI cyber (hijau neon) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
