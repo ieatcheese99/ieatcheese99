@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  i write code&nbsp;&nbsp;<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25">&nbsp;&nbsp;and  tech&nbsp;&nbsp;<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25">
+  i write code&nbsp;&nbsp;<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25">&nbsp;&nbsp;anddddddd  tech&nbsp;&nbsp;<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25">
 </div>
 
 <br>
