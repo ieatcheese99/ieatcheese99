@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Welcome%20to%20My%20World&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=c0caf5" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Hello%20to%%20World&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=c0caf5" alt="Header Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  i write code&nbsp;&nbsp;<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25">&nbsp;&nbsp;anddddddd  tech&nbsp;&nbsp;<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25">
+  i write code&nbsp;&nbsp;<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25">&nbsp;&nbsp;andd  tech&nbsp;&nbsp;<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25">
 </div>
 
 <br>
