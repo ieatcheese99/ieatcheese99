@@ -78,4 +78,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
-  
