@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Hello%%20World&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=c0caf5" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Hello%20World&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=c0caf5" alt="Header Banner" width="100%" />
 </div>
 
 <div align="center">
