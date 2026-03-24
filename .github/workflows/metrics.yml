@@ -51,6 +51,7 @@ jobs:
           git add github-metrics.svg
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "chore: update metrics"
+            git pull --rebase
             git push
           else
             echo "Nothing to commit"
