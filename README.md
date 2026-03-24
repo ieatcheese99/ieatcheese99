@@ -24,6 +24,10 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="binary_city.svg" alt="Binary City Skyline" width="100%" />
+</div>
+
 <br>
 
 ##  Tech Stack & Tools
@@ -44,7 +48,7 @@
 
 <br>
 
-##  System Metrics
+
 
 <div align="center">
   <!-- Tema Statistik GitHub disesuaikan agar cocok dengan tampilan "Neural Network" (Neon Green, Cyan, & Dark Backgound) -->
@@ -81,9 +85,7 @@
 
 
 
-<div align="center">
-  <img src="binary_city.svg" alt="Binary City Skyline" width="100%" />
-</div>
+
 
 <br>
 
