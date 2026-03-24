@@ -24,9 +24,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="binary_city.svg" alt="Binary City Skyline" width="100%" />
-</div>
 
 <br>
 
@@ -47,6 +44,11 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="binary_city.svg" alt="Binary City Skyline" width="100%" />
+</div>
+
 
 
 
