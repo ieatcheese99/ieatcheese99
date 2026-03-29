@@ -27,7 +27,7 @@
 
 <br>
 
-##  Tech Stack & Tools
+##  Tech Stacks & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
