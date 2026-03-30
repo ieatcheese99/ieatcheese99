@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Matrix Black Hole</title>
+<style>
+    body { margin: 0; background: #000; overflow: hidden; display: flex; justify-content: center; align-items: center; height: 100vh; }
+    canvas { display: block; }
+</style>
+</head>
+<body>
+    <canvas id="canvas"></canvas>
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        
+        const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@#$%^&*()_+-=[]{}|;:,.<>/?日ﾊﾐﾋｰｳｼﾅﾓﾆｻﾜﾂｵﾘｱﾎﾃﾏｹﾒｴｶｷﾑﾕﾗｾﾈｽﾀﾇﾍ'.split('');
+        const mx = canvas.width / 2;
+        const my = canvas.height / 2;
+        const particles = [];
+        
+        class Particle {
+            constructor() { this.reset(); }
+            reset() {
+                this.angle = Math.random() * Math.PI * 2;
+                this.radius = Math.random() * 300 + 100;
+                this.speed = (Math.random() + 0.5) * 3;
+                this.char = characters[Math.floor(Math.random() * characters.length)];
+                this.fontSize = Math.random() * 8 + 10;
+            }
+            update() {
+                this.radius -= this.speed; // Suck inward
+                this.angle += 0.03;       // Swirl effect
+                if (Math.random() > 0.9) this.char = characters[Math.floor(Math.random() * characters.length)];
+                if (this.radius < 50) this.reset(); // Event horizon trigger
+            }
+            draw() {
+                const x = mx + Math.cos(this.angle) * this.radius;
+                const y = my + Math.sin(this.angle) * this.radius;
+                const opacity = Math.min(1, (this.radius - 50) / 100);
+                ctx.fillStyle = `rgba(0, 255, 65, ${opacity})`;
+                ctx.font = `bold ${this.fontSize}px monospace`;
+                ctx.fillText(this.char, x, y);
+            }
+        }
+        
+        for (let i = 0; i < 400; i++) particles.push(new Particle());
+        
+        function animate() {
+            // Transparency trail for matrix blur effect
+            ctx.fillStyle = 'rgba(0, 0, 0, 0.15)';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            
+            // Draw particles
+            particles.forEach(p => { p.update(); p.draw(); });
+            
+            // Draw Black Hole Event Horizon
+            const gradient = ctx.createRadialGradient(mx, my, 40, mx, my, 100);
+            gradient.addColorStop(0, 'rgba(0, 0, 0, 1)');
+            gradient.addColorStop(0.2, 'rgba(0, 255, 65, 0.3)');
+            gradient.addColorStop(1, 'rgba(0, 0, 0, 0)');
+            
+            ctx.fillStyle = gradient;
+            ctx.beginPath();
+            ctx.arc(mx, my, 100, 0, Math.PI * 2);
+            ctx.fill();
+            
+            // Complete absolute darkness at the core
+            ctx.fillStyle = '#000';
+            ctx.beginPath();
+            ctx.arc(mx, my, 48, 0, Math.PI * 2);
+            ctx.fill();
+            
+            requestAnimationFrame(animate);
+        }
+        animate();
+        
+        window.addEventListener('resize', () => {
+             canvas.width = window.innerWidth;
+             canvas.height = window.innerHeight;
+        });
+    </script>
+</body>
+</html>

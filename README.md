@@ -96,3 +96,37 @@
   <!-- Footer dirubah warnanya agar senada dengan UI cyber (hijau neon) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
+
+<!-- ========================================== -->
+<!-- ADDED VISUAL ELEMENTS (MATRIX THEME)       -->
+<!-- ========================================== -->
+
+<br><br>
+
+<div align="center">
+  <!-- Animated Divider / Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E_SYSTEM+BREACH+DETECTED...;%3E_INITIALIZING+MATRIX+PROTOCOL...;%3E_WELCOME+TO+THE+MAINFRAME" alt="Matrix Terminal Line" />
+  <br>
+
+  <table width="100%" border="0" style="background-color: #000000; border: 1px solid #00FF41;">
+    <tr>
+      <td align="center" width="50%">
+        <!-- Tautan akan mengarah ke web page interaktif jika di-klik -->
+        <a href="https://ieatcheese99.github.io/donut.html" target="_blank">
+          <img src="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/main/assets/donut.gif" width="300" alt="3D Spinning Matrix Donut">
+        </a>
+        <br>
+        <samp style="color: #00FF41;"><b>[ ENTITY : ASCII_DONUT ]</b></samp>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://ieatcheese99.github.io/blackhole.html" target="_blank">
+          <img src="https://raw.githubusercontent.com/ieatcheese99/ieatcheese99/main/assets/blackhole.gif" width="300" alt="Matrix Black Hole">
+        </a>
+        <br>
+        <samp style="color: #00FF41;"><b>[ ENTITY : CODE_SINGULARITY ]</b></samp>
+      </td>
+    </tr>
+  </table>
+  
+  <p><samp style="color: #666666;"><i>Wake up, Neo... The code has you.</i></samp></p>
+</div>
