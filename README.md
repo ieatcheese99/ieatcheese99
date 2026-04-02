@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- Font Typing Color diubah ke warna hijau neon khas neural network (00FF99) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&background=1a1b2600&vCenter=true&width=500&lines=Hello,+I'm+ieatcheese;Junior+Fullstack+Developer;UI%2FUX+%26+Fullstack+Enthusiast" alt="Typing Intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&background=1a1b2600&vCenter=true&width=500&lines=Hello,+I'm+ieatcheese;Junior+Fullstack+Developer;IT+Enthusiast" alt="Typing Intro">
 </div>
 
 <br>
