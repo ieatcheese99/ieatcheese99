@@ -45,10 +45,7 @@
 
 <br>
 
-<div align="center">
-  <img src="binary_city.svg" alt="Binary City Skyline" width="100%" />
-</div>                          
-                                                                                   
+                                                                 
 
 
 
@@ -86,8 +83,11 @@
 <br>
 
 
-
-
+<!--Binary city-->
+<div align="center">
+  <img src="binary_city.svg" alt="Binary City Skyline" width="100%" />
+</div>                          
+                  
 
 <br>
 
