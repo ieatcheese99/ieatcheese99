@@ -128,5 +128,4 @@
     </tr>
   </table>
   
-  <p><samp style="color: #666666;"><i>Wake up, Neo... The code has you.</i></samp></p>
 </div>
