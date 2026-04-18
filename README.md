@@ -24,42 +24,6 @@
 
 <br>
 
-<!-- Cosmic Cheese Blackhole ASCII Art -->
-<div align="center">
-<pre>
-     *  .  *  .  *  .  *  .  *  .  *  .  *
-  .    .    .    .    .    .    .    .    .
-    .  .-""""""""""""""""""""-.  .
- *   .-(  .    .    .    .    )-.   *
-    .-(  .    .   .-----.   .  )-.
-   (  .   .   .  /       \  .   . )
-   (  .  .   .  |  ( 0 )  |  .  . )
-   (  .   .   .  \       /  .   . )
-    .-(  .    .   '-----'   .  )-.
- *   .-(  .    .    .    .    )-.   *
-    .  '-""""""""""""""""""""'  .
-  .    .    .    .    .    .    .    .    .
-     *  .  *  .  *  .  *  .  *  .  *  .  *
-
-         ~~ C O S M I C   B L A C K H O L E ~~
-              everything gets devoured...
-
-                    |  |  |
-                   \|  |  |/
-                    v  v  v
-
-          /""""""""""""""""""""\
-         /  o    o    o    o    \
-        /    o    o    o    o    \
-       /  o    o    o    o    o   \
-      /____________________________\
-      |                            |
-      |     ~ ~  C H E E S E  ~ ~  |
-      |____________________________|
-           ...being pulled in
-</pre>
-</div>
-
 <br>
 
 ## Tech Stacks
@@ -123,4 +87,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
-
