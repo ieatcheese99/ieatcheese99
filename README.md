@@ -15,17 +15,17 @@
 
 ---
 
-## 🦑 About Me
+##  About Me
 - 🔭 Fokus: Web Development (Laravel, React, Next.js)
 - 🌱 Lagi dalami: System Design & UI/UX konsisten
 - ⚡ Suka bikin project yang clean, cepat, dan usable
 
-## 🪸 Tech Stack
+##  Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,cs,cpp,python,html,css,js,ts,laravel,nextjs,react,tailwind,bootstrap,mysql,git,github,vscode,docker,linux&theme=dark" />
 </div>
 
-## 🐟 GitHub Stats
+##  GitHub Stats
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ieatcheese99&show_icons=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=9ad1ff&bg_color=000814" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieatcheese99&layout=compact&hide_border=true&title_color=00e5ff&text_color=9ad1ff&bg_color=000814" />
