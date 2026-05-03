@@ -18,7 +18,7 @@
 ##  About Me
 - 🔭 Fokus: Web Development (Laravel, React, Next.js)
 - 🌱 Lagi dalami: System Design & UI/UX konsisten
-- ⚡ Suka bikin project yang clean, cepat, dan usable
+
 
 ##  Tech Stack
 <div align="center">
