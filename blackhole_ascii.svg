@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- background -->
+  <rect width="400" height="400" fill="#000814"/>
+
+  <defs>
+    <filter id="glow-soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow-mid" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow-strong" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="eventHorizon" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#000000" stop-opacity="1"/>
+      <stop offset="70%"  stop-color="#ff6b35" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <path id="circ22" d="M 222,200 A 22,22 0 1,1 178,200 A 22,22 0 1,1 222,200"/>
+    <path id="circ42" d="M 242,200 A 42,42 0 1,1 158,200 A 42,42 0 1,1 242,200"/>
+    <path id="circ62" d="M 262,200 A 62,62 0 1,1 138,200 A 62,62 0 1,1 262,200"/>
+    <path id="circ82" d="M 282,200 A 82,82 0 1,1 118,200 A 82,82 0 1,1 282,200"/>
+    <path id="circ104" d="M 304,200 A 104,104 0 1,1 96,200 A 104,104 0 1,1 304,200"/>
+    <path id="circ126" d="M 326,200 A 126,126 0 1,1 74,200 A 126,126 0 1,1 326,200"/>
+  </defs>
+
+  <!-- subtle background stars (c chars scattered) -->
+  <text x="347" y="77" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="32" y="160" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="91" y="72" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="366" y="299" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="64" y="322" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="236" y="36" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="35" y="67" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="278" y="328" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="33" y="307" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="121" y="352" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="379" y="299" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="162" y="23" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+  <text x="101" y="377" font-family="'Courier New',Courier,monospace" font-size="8" fill="#00e5ff" opacity="0.18">c</text>
+
+  <!-- rings (outer → inner so inner renders on top) -->
+  <g opacity="0.75" filter="url(#glow-soft)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 200 200" to="360 200 200"
+      dur="30s" repeatCount="indefinite"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="10" fill="#00e5ff">
+      <textPath href="#circ126">cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc</textPath>
+    </text>
+  </g>
+  <g opacity="0.78" filter="url(#glow-soft)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="360 200 200" to="0 200 200"
+      dur="23s" repeatCount="indefinite"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="10" fill="#0abfff">
+      <textPath href="#circ104">ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc</textPath>
+    </text>
+  </g>
+  <g opacity="0.8" filter="url(#glow-mid)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 200 200" to="360 200 200"
+      dur="17s" repeatCount="indefinite"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="10" fill="#9ad1ff">
+      <textPath href="#circ82">ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc</textPath>
+    </text>
+  </g>
+  <g opacity="0.85" filter="url(#glow-mid)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="360 200 200" to="0 200 200"
+      dur="12s" repeatCount="indefinite"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="10" fill="#ffffff">
+      <textPath href="#circ62">ccccccccccccccccccccccccccccccccccccccccccccccccccccccc</textPath>
+    </text>
+  </g>
+  <g opacity="0.9" filter="url(#glow-strong)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 200 200" to="360 200 200"
+      dur="8s" repeatCount="indefinite"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="10" fill="#ffd60a">
+      <textPath href="#circ42">ccccccccccccccccccccccccccccccccccccc</textPath>
+    </text>
+  </g>
+  <g opacity="0.95" filter="url(#glow-strong)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="360 200 200" to="0 200 200"
+      dur="5s" repeatCount="indefinite"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="10" fill="#ff9a3c">
+      <textPath href="#circ22">cccccccccccccccccccc</textPath>
+    </text>
+  </g>
+
+  <!-- event horizon glow overlay -->
+  <circle cx="200" cy="200" r="26" fill="url(#eventHorizon)"/>
+
+  <!-- singularity - pure black center -->
+  <circle cx="200" cy="200" r="18" fill="#000000"/>
+  <circle cx="200" cy="200" r="18" fill="none" stroke="#ff9a3c" stroke-width="1.5" opacity="0.7" filter="url(#glow-strong)">
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="18;21;18" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- scan line effect -->
+  <line x1="0" y1="0" x2="400" y2="0" stroke="#00e5ff" stroke-width="0.8" opacity="0.25">
+    <animate attributeName="y1" from="0" to="400" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="y2" from="0" to="400" dur="6s" repeatCount="indefinite"/>
+  </line>
+</svg>
