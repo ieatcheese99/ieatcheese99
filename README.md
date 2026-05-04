@@ -60,7 +60,7 @@
 ║     (Laravel, React, Next.js)    ║
 ║                                  ║
 ║  🌱 Lagi dalami:                 ║
-║     System Design &amp;              ║
+║     System Design &               ║
 ║     UI/UX konsisten              ║
 ║                                  ║
 ╚══════════════════════════════════╝
