@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 290" width="400" height="290">
+  <rect width="400" height="290" fill="#000814"/>
+  <defs>
+    <filter id="cheese-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="scan-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- cheese wedge – floating animation -->
+  <g filter="url(#cheese-glow)">
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; 0,-9; 0,0" dur="3.2s" repeatCount="indefinite"
+      calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+    <text x="200" y="80" text-anchor="middle"
+      font-family="'Courier New',Courier,monospace"
+      font-size="15" fill="#ffd60a">         cccc        </text>
+    <text x="200" y="102" text-anchor="middle"
+      font-family="'Courier New',Courier,monospace"
+      font-size="15" fill="#ffd60a">       cccccccc      </text>
+    <text x="200" y="124" text-anchor="middle"
+      font-family="'Courier New',Courier,monospace"
+      font-size="15" fill="#ffd60a">     cccccccccccc    </text>
+    <text x="200" y="146" text-anchor="middle"
+      font-family="'Courier New',Courier,monospace"
+      font-size="15" fill="#ffd60a">   cccc        cccc  </text>
+    <text x="200" y="168" text-anchor="middle"
+      font-family="'Courier New',Courier,monospace"
+      font-size="15" fill="#ffd60a">  cccccccccccccccccc </text>
+    <text x="200" y="190" text-anchor="middle"
+      font-family="'Courier New',Courier,monospace"
+      font-size="15" fill="#ffd60a"> cccc    cccc   cccc </text>
+    <text x="200" y="212" text-anchor="middle"
+      font-family="'Courier New',Courier,monospace"
+      font-size="15" fill="#ffd60a">cccccccccccccccccccccc</text>
+  </g>
+
+  <!-- scan line -->
+  <line x1="120" y1="0" x2="280" y2="0" stroke="#ffd60a" stroke-width="0.7" opacity="0.3">
+    <animate attributeName="y1" from="70" to="239" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="y2" from="70" to="239" dur="5s" repeatCount="indefinite"/>
+  </line>
+</svg>
